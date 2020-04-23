@@ -1,4 +1,4 @@
 n1 = input('Primeiro numero ')
 n2 = input('Segundo numero ')
 soma = int(n1) +int(n2)
-print('A soma eh', soma)
+print('A soma é', soma)
